@@ -1,5 +1,6 @@
 package com.dragaliabot
 
-fun main() {
+import com.dragaliabot.data.Adventurer
 
+fun main() {
 }
